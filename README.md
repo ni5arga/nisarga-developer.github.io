@@ -1,2 +1,2 @@
-# nisarga-developer.github.io
-My personal website 
+# My personal website
+This is the repo for my personal website :)
