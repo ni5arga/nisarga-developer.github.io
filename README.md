@@ -1,2 +1,1 @@
-# My personal website
-This is the repo for my personal website :)
+Redirects to https://nisarga.me/
